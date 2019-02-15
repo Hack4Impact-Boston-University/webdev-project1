@@ -1,7 +1,6 @@
 # Mini Project 1: Beautiful To Do List Application
-First Web Development Project
 
-### **Note:** the Web Developer Bootcamp Udemy Course is **very** detailed. 
+ **Note:** the Web Developer Bootcamp Udemy Course is **very** detailed. 
 
    - Completing this project requires knowledge about HTML, CSS, Javascript, 
     and DOM Manipulation (section 15). 
@@ -10,12 +9,13 @@ First Web Development Project
     version of the course :arrow_down:                
     https://docs.google.com/document/d/1Bit2OyYTfRYKI6c-WPA2QVUAoCbHFTCVfmbTtHcyGh0/edit?usp=sharing
 
+---
 
-## The project will be a to build an app that allows a user to:
+## The project will be to build an app that allows a user to:
 - create a new task and add it to the to-do list
 - check off a task from the list when it is complete (delete the task)
  
- 
+ ---
 
 ## Key Features of the App
 *Reference section 13 for a to-do list code along in the console and reference section 16 the score keeper project for logic about button events*
@@ -37,14 +37,16 @@ First Web Development Project
       
   ### 3. Delete a Task Feature
 
-**Feel free to be creative here! 
-If you can think of a different way to delete tasks, like interactive checkboxes that remove the task, that works too!** 
+*Feel free to be creative here! 
+If you can think of a different way to delete tasks, like interactive checkboxes that remove the task, that works too!*
       
       - on a Button 2 click, use Javascript programming logic to:
             - decide which task to delete
             - implement deleting the task
             
       - then, use DOM manipulation to delete the task from the screen 
+      
+---
 
 ## Key Design of the App
       Make the app look inviting and fun to use! 
